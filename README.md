@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![google/highway · Contributor](https://img.shields.io/badge/google%2Fhighway-Contributor-8250df?logo=github)](https://github.com/google/highway/pull/3543)
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/LittlePyx/badge.svg)](https://hub.xerj.org/contributors/LittlePyx)
