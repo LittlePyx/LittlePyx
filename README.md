@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![google/highway · Contributor](https://img.shields.io/badge/google%2Fhighway-Contributor-8250df?logo=github)](https://github.com/google/highway/pull/3543)
+[![google/highway · Contributor](https://img.shields.io/badge/google%2Fhighway-Contributor-8250df?logo=github)](https://github.com/google/highway/pulls?q=is%3Apr+is%3Amerged+author%3ALittlePyx)
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/LittlePyx/badge.svg)](https://hub.xerj.org/contributors/LittlePyx)
