@@ -19,6 +19,8 @@ Selected contributions incorporated upstream:
 | Project | Contribution | Upstream links |
 | --- | --- | --- |
 | **PyTorch** | Fixed an AOT/Dynamo circular import that could leave Dynamo partially initialized and break a later `torch.compile` call; added subprocess regression coverage. | [#204231 · commit](https://github.com/pytorch/pytorch/commit/62280d37c702b9f201a34209c67a0ad35a605798) |
+| **PyTorch** | Enabled Dynamo to track OrderedDict reduction iterators for copying, with guards and eager fallback to preserve instance attributes. | [#204199 · commit](https://github.com/pytorch/pytorch/commit/06365afc4fb969daa469facafd2dccc09c914dc2) |
+| **PyTorch** | Fixed fake kernel registration failures caused by unrelated lazy imports by reading source metadata directly from the calling frame. | [#204241 · commit](https://github.com/pytorch/pytorch/commit/60a770bf6fe42e287b72654522cc76303cb80728) |
 | **Google Highway** | Added support for multiple template arguments in dynamic dispatch; preserved signed-zero counts in VQSort's two-value partition and sorting networks. | [#3548](https://github.com/google/highway/pull/3548) · [#3543](https://github.com/google/highway/pull/3543) · [#3544](https://github.com/google/highway/pull/3544) |
 | **x86-simd-sort** | Fixed floating-point SIMD compare-exchange so equal-valued positive and negative zeros retain their original bit-pattern counts. | [#244](https://github.com/numpy/x86-simd-sort/pull/244) |
 
