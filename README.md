@@ -26,9 +26,9 @@ I develop and maintain three tools for finding, reading, and working with resear
 
 | Project | What it does | Explore |
 | --- | --- | --- |
-| **[Pi Zaya](https://github.com/LittlePyx/Pi_zaya)** | A research assistant for a local academic library, with cross-paper retrieval, evidence-grounded answers, and citations that lead back to source passages. | [Code](https://github.com/LittlePyx/Pi_zaya) · [Windows releases](https://github.com/LittlePyx/Pi_zaya/releases) |
-| **[Pi Research](https://github.com/LittlePyx/pi-research)** | Continuous paper discovery and personalized screening, with research maps and reading paths built from relevant papers. | [Code](https://github.com/LittlePyx/pi-research) · [Web app](https://pi-research-agent.qiudao-pika.chatgpt.site/) |
-| **[Pi Translator](https://github.com/LittlePyx/Pi-translator)** | An Edge extension for bilingual reading across webpages, Overleaf, and PDFs, with research notes, terminology, and user-configured AI providers. | [Code](https://github.com/LittlePyx/Pi-translator) · [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/pi-translator/edfkcddhenkhdkedhnmcebmmfacabcjf) |
+| **[Pi Zaya](https://github.com/LittlePyx/Pi_zaya)** | A research assistant for a local academic library, with cross-paper retrieval, evidence-grounded answers, and citations that lead back to source passages. | [Code](https://github.com/LittlePyx/Pi_zaya) · [Windows&nbsp;releases](https://github.com/LittlePyx/Pi_zaya/releases) |
+| **[Pi&nbsp;Research](https://github.com/LittlePyx/pi-research)** | Continuous paper discovery and personalized screening, with research maps and reading paths built from relevant papers. | [Code](https://github.com/LittlePyx/pi-research) · [Web&nbsp;app](https://pi-research-agent.qiudao-pika.chatgpt.site/) |
+| **[Pi&nbsp;Translator](https://github.com/LittlePyx/Pi-translator)** | An Edge extension for bilingual reading across webpages, Overleaf, and PDFs, with research notes, terminology, and user-configured AI providers. | [Code](https://github.com/LittlePyx/Pi-translator) · [Edge&nbsp;Add-ons](https://microsoftedge.microsoft.com/addons/detail/pi-translator/edfkcddhenkhdkedhnmcebmmfacabcjf) |
 
 [XERJ Corpus Hub](https://hub.xerj.org/contributors/LittlePyx) selected a [Pi Zaya commit](https://github.com/LittlePyx/Pi_zaya/commit/3b1a43e485bab3c73b4dd3dd8b5fddff3d3955cc) that links Noise2Noise conditions to supporting source passages.
 
