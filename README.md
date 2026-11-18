@@ -1,5 +1,11 @@
 ![Yanxi Pan · LittlePyx — AI applications, numerical computing, and systems programming](./assets/profile-banner.webp)
 
+[![PyTorch contributor](https://img.shields.io/badge/PyTorch-Contributor-8250df?logo=github)](https://github.com/pytorch/pytorch/commit/62280d37c702b9f201a34209c67a0ad35a605798)
+[![Google Highway contributor](https://img.shields.io/badge/Google_Highway-Contributor-8250df?logo=github)](https://github.com/google/highway/pulls?q=is%3Apr+is%3Amerged+author%3ALittlePyx)
+[![x86-simd-sort contributor](https://img.shields.io/badge/x86--simd--sort-Contributor-8250df?logo=github)](https://github.com/numpy/x86-simd-sort/commit/1dadd5d3e9730d9cfe428460794a76241968feb3)
+[![NumPy pull requests](https://img.shields.io/badge/NumPy-Pull_requests-8250df?logo=github)](https://github.com/numpy/numpy/pulls?q=is%3Apr+author%3ALittlePyx)
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/LittlePyx/badge.svg)](https://hub.xerj.org/contributors/LittlePyx)
+
 # Yanxi Pan · 潘彦茜
 
 I build software and contribute to open source, with interests in **AI applications, numerical computing, and systems programming**.
@@ -9,12 +15,6 @@ My work spans tools for research and reading, floating-point correctness in SIMD
 [Website & writing](https://littlepyx.github.io/about/) · [Open-source contributions](#open-source-contributions) · [Selected projects](#selected-projects)
 
 ## Open-source contributions
-
-[![PyTorch contributor](https://img.shields.io/badge/PyTorch-Contributor-8250df?logo=github)](https://github.com/pytorch/pytorch/commit/62280d37c702b9f201a34209c67a0ad35a605798)
-[![Google Highway contributor](https://img.shields.io/badge/Google_Highway-Contributor-8250df?logo=github)](https://github.com/google/highway/pulls?q=is%3Apr+is%3Amerged+author%3ALittlePyx)
-[![x86-simd-sort contributor](https://img.shields.io/badge/x86--simd--sort-Contributor-8250df?logo=github)](https://github.com/numpy/x86-simd-sort/commit/1dadd5d3e9730d9cfe428460794a76241968feb3)
-[![NumPy pull requests](https://img.shields.io/badge/NumPy-Pull_requests-8250df?logo=github)](https://github.com/numpy/numpy/pulls?q=is%3Apr+author%3ALittlePyx)
-[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/LittlePyx/badge.svg)](https://hub.xerj.org/contributors/LittlePyx)
 
 Selected contributions incorporated upstream:
 
