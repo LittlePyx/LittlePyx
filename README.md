@@ -20,7 +20,6 @@ Selected contributions incorporated upstream:
 | --- | --- | --- |
 | **PyTorch** | Fixed an AOT/Dynamo circular import that could break a later `torch.compile` call. | [#204231](https://github.com/pytorch/pytorch/commit/62280d37c702b9f201a34209c67a0ad35a605798) |
 | **PyTorch** | Added Dynamo support for the iterators used when copying an `OrderedDict`. | [#204199](https://github.com/pytorch/pytorch/commit/06365afc4fb969daa469facafd2dccc09c914dc2) |
-| **PyTorch** | Fixed fake kernel registration failures caused by unrelated lazy module imports. | [#204241](https://github.com/pytorch/pytorch/commit/60a770bf6fe42e287b72654522cc76303cb80728) |
 | **Google Highway** | Added support for multiple template arguments in dynamic dispatch. | [#3548](https://github.com/google/highway/pull/3548) |
 | **Google Highway** | Preserved signed-zero counts in VQSort's two-value partition and sorting networks. | [#3543](https://github.com/google/highway/pull/3543) · [#3544](https://github.com/google/highway/pull/3544) |
 | **x86-simd-sort** | Fixed SIMD compare-exchange to preserve the counts of positive and negative zeros. | [#244](https://github.com/numpy/x86-simd-sort/pull/244) |
