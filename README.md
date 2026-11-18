@@ -1,3 +1,5 @@
+![Yanxi Pan · LittlePyx — AI applications, numerical computing, and systems programming](./assets/profile-banner.webp)
+
 # Yanxi Pan · 潘彦茜
 
 I build software and contribute to open source, with interests in **AI applications, numerical computing, and systems programming**.
@@ -32,11 +34,35 @@ Selected contributions incorporated upstream:
 
 I develop and maintain three tools for finding, reading, and working with research papers.
 
-| Project | What it does | Explore |
-| --- | --- | --- |
-| **[Pi Zaya](https://github.com/LittlePyx/Pi_zaya)** | A research assistant for a local academic library, with cross-paper retrieval, evidence-grounded answers, and citations that lead back to source passages. | [Code](https://github.com/LittlePyx/Pi_zaya) · [Windows&nbsp;releases](https://github.com/LittlePyx/Pi_zaya/releases) |
-| **[Pi&nbsp;Research](https://github.com/LittlePyx/pi-research)** | Continuous paper discovery and personalized screening, with research maps and reading paths built from relevant papers. | [Code](https://github.com/LittlePyx/pi-research) · [Web&nbsp;app](https://pi-research-agent.qiudao-pika.chatgpt.site/) |
-| **[Pi&nbsp;Translator](https://github.com/LittlePyx/Pi-translator)** | An Edge extension for bilingual reading across webpages, Overleaf, and PDFs, with research notes, terminology, and user-configured AI providers. | [Code](https://github.com/LittlePyx/Pi-translator) · [Edge&nbsp;Add-ons](https://microsoftedge.microsoft.com/addons/detail/pi-translator/edfkcddhenkhdkedhnmcebmmfacabcjf) |
+### Pi Zaya · Literature retrieval and citation tracing
+
+A research assistant for a local academic library, with cross-paper retrieval, evidence-grounded answers, and citations that lead back to source passages.
+
+[Source code](https://github.com/LittlePyx/Pi_zaya) · [Windows releases](https://github.com/LittlePyx/Pi_zaya/releases) · [Project walkthrough](https://littlepyx.github.io/projects/pi-zaya/)
+
+![Two Pi Zaya screens showing a cited answer followed by the highlighted passage in the source paper](./assets/pi-zaya-demo.gif)
+
+*Demo screenshots show a cited answer and the highlighted source passage.*
+
+### Pi Research · Paper discovery and screening
+
+Continuous paper discovery and personalized screening, with research maps and reading paths built from relevant papers.
+
+[Source code](https://github.com/LittlePyx/pi-research) · [Public demo](https://pi-research-agent.qiudao-pika.chatgpt.site/demo) · [Project walkthrough](https://littlepyx.github.io/projects/pi-research/)
+
+![Pi Research Today view with a research brief, reading recommendations, and feedback controls](./assets/pi-research-demo.webp)
+
+*The Today view uses public papers and sample recommendation data.*
+
+### Pi Translator · Bilingual reading in Edge
+
+An Edge extension for bilingual reading across webpages, Overleaf, and PDFs, with research notes, terminology, and user-configured AI providers.
+
+[Source code](https://github.com/LittlePyx/Pi-translator) · [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/pi-translator/edfkcddhenkhdkedhnmcebmmfacabcjf) · [Project walkthrough](https://littlepyx.github.io/projects/pi-translator/)
+
+![Pi Translator showing an original PDF on the left and the translated passage on the right](./assets/pi-translator-demo.webp)
+
+*PDF preview with sample translation output. The source paper is [FastVPINNs](https://doi.org/10.21105/joss.06764) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).*
 
 ---
 
